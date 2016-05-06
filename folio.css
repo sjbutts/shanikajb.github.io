@@ -1,17 +1,42 @@
 body {
+	 padding-top: 50px; 
 
+	 
 }
-
-
+	
 .jumbotron {
-   height: 500px;
-   margin-top: -50px;
-   margin-bottom: -50px;
+	width: 100%;
+   height: 300px;
+   margin-top: 0px;
+   /*background-color:transparent !important; */
 }
 .img-cicle {
-	border-radius: 50%;		
+	
+	float: right;
+	height: 0px;
+}
+.nav {
+	font-size: 18px;
+		height: 10px;
+
 }
 
-.jumbotron h1 {
-
+hr { 
+	    display: block;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
+.wrapper {
+	margin:0 auto;
+	padding: 0% 15% 10% 15%;
+	line-height: 1.5;
+	width: 100%;
 }
+
+
+.navbar-custom {
+	background-color: #E5FEFF;
+	font-weight: 800;
+}	
+	
+	
